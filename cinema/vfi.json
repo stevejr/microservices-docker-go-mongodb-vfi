@@ -1,0 +1,10 @@
+{
+  "booking": {
+    "type": "dockerImage",
+    "address": "leftshiftit/booking:0e564bcc9d4c8f972fc02c1f5941cbf5be2cdb60"
+  },
+  "movies": {
+    "type": "dockerImage",
+    "address": "leftshiftit/movies:0e564bcc9d4c8f972fc02c1f5941cbf5be2cdb60"
+  }
+}
