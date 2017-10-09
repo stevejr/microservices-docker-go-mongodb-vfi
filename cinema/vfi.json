@@ -1,1 +1,10 @@
-[bookings:[type:dockerImage, address:cinema/bookings:sha256:054d89adcbcfeb61a41fc555417f027e4e63715fec2fc67b04fd991cc4c4d44f], movies:[type:dockerImage, address:leftshiftit/movies:0e564bcc9d4c8f972fc02c1f5941cbf5be2cdb60]]
+{
+  "bookings": {
+    "type": "dockerImage",
+    "address": "cinema/bookings:1111111111111111111111111111111111111111"
+  },
+  "movies": {
+    "type": "dockerImage",
+    "address": "leftshiftit/movies:0e564bcc9d4c8f972fc02c1f5941cbf5be2cdb60"
+  }
+}
