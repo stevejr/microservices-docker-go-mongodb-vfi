@@ -1,7 +1,7 @@
 {
     "bookings": {
         "type": "dockerImage",
-        "address": "cinema/bookings:sha256:054d89adcbcfeb61a41fc555417f027e4e63715fec2fc67b04fd991cc4c4d44f"
+        "address": "cinema/bookings:sha256:acc037c2015d7924fa613910d5f5c57a7d48f262d49503ea6eab3d6aa6a9c9f6"
     },
     "movies": {
         "type": "dockerImage",
